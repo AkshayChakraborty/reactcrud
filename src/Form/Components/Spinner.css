@@ -1,0 +1,23 @@
+.loader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vh;
+    height: 100vh !important;
+    margin: auto;
+}
+.comment{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vh;
+    height: 100vh !important;
+    margin: auto;
+
+}
+label {
+    color: #306872;
+    font-weight: bold;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif
+  }
